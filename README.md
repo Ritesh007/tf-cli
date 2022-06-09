@@ -12,3 +12,4 @@ simple cli tool for terraform
 - In case of issues 
   - with linking the package; run ` yarn link --global`; makes `terra-iac-cli` command available for local use
   - with permissions - `chmod u+x` on the terra-iac-cli executable
+  
