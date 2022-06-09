@@ -1,6 +1,9 @@
 # terra-iac-cli
 simple cli tool for terraform 
 
+## Install
+`npm install terra-iac-cli`
+
 ## Run it locally 
 - clone the project 
 - run `yarn install`
