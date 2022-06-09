@@ -1,6 +1,6 @@
 {
   "name": "terra-iac-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple cli tool for terraform",
   "main": "bin/index.js",
   "bin": "bin/index.js",
